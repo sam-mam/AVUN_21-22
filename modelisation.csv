@@ -1,0 +1,17 @@
+physique,acteurs,concept label,concept uri,sujet,predicat,objet
+ordinateur,réseaux sociaux,fake news,,a2,c2,c17
+smartphone,leaders politiques,rumeur,,a6,c4,a2
+,Donald Trump,propagande,,a7,c12,c2
+,Marine Le pen,algorithme,http://www.ontobee.org/ontology/IAO?iri=http://purl.obolibrary.org/obo/IAO_0000064,c4,c3,c6
+,intelligence artificielle,bots,,a4,c13,c2
+,internautes,données,https://loc.gov/search/?in=&q=data&new=true&st=,a5,c3,c17
+,,deep learning,http://www.ontobee.org/ontology/OBI?iri=http://purl.obolibrary.org/obo/OBI_0002587,c17,c7,c13
+,,tag,https://www.bbc.co.uk/ontologies/creativework#terms_tag,c5,c7,c6
+,,partage,https://dbpedia.org/ontology/shareSource,c6,c13,c2
+,,like,https://schema.org/UserLikes,a7,c11,c17
+,,commentaire,,a3,c4,a2
+,,propagation,,c2,c13,a2
+,,ciblage,,c14,c7,a7
+,,élécteurs,https://dbpedia.org/ontology/Election,c4,c14,c16
+,,pubilicité,http://wlode.disit.org/WLODE/extract?url=http://www.disit.org/km4city/schema#Advertising_and_promotion,a3,c16,a2
+,,facebbok,https://schema.org/SocialMediaPosting,,,
